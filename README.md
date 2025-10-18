@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://yandex.com/images/search?text=gif+cat+funny+png&pos=5&rpt=simage&img_url=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2FWKQV.gif&from=tabbar&lr=105736)"  />
+<img align="right" height="150" src="<img width="764" height="556" alt="image" src="https://github.com/user-attachments/assets/e44508d1-a805-44c4-b44e-887ced6b4901" />
+"  />
 
 ###
 
