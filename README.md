@@ -1,13 +1,19 @@
-<h2 align="left">Hi 👋! My name is Manoel and I'm a computer student, from Brazil</h2>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Manoel and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
+
+## About me
+I live in Aracaju, Sergipe. <br>
+I'm a Computer Science student. <br>
+I'm passionate about technology and pop culture.
+
 
 ###
 
 
-
 ###
 
-
-###
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -47,10 +53,5 @@
 ###
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manoelmonteiro/Manoelmonteiro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manoelmonteiro/Manoelmonteiro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Manoelmonteiro/Manoelmonteiro/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
