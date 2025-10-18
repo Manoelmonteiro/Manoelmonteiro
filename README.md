@@ -6,7 +6,6 @@
 
 ###
 
-<img align="right" height="150" src="<img width="764" height="556" alt="image" src=" https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F6s7r2q.png&f=1&nofb=1&ipt=4bbd8e02b6ce9fef5bf87cfd9f36c40fec91c04dfc7b69c6aee12c9a75a2af09"  />
 
 ###
 
