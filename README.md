@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="<img width="764" height="556" alt="image" src="[https://github.com/user-attachments/assets/e44508d1-a805-44c4-b44e-887ced6b4901](https://images.steamusercontent.com/ugc/809998067557208548/2A483A94C68E6DD89A5C36ECA6465E927CAA780F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" />
+<img align="right" height="150" src="<img width="764" height="556" alt="image" src="https://images.steamusercontent.com/ugc/809998067557208548/2A483A94C68E6DD89A5C36ECA6465E927CAA780F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 "  />
 
 ###
