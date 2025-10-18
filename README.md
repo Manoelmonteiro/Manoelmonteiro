@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="<img width="764" height="556" alt="image" src="[https://images.steamusercontent.com/ugc/809998067557208548/2A483A94C68E6DD89A5C36ECA6465E927CAA780F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F6s7r2q.png&f=1&nofb=1&ipt=4bbd8e02b6ce9fef5bf87cfd9f36c40fec91c04dfc7b69c6aee12c9a75a2af09) />
-"  />
+<img align="right" height="150" src="<img width="764" height="556" alt="image" src=" https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F6s7r2q.png&f=1&nofb=1&ipt=4bbd8e02b6ce9fef5bf87cfd9f36c40fec91c04dfc7b69c6aee12c9a75a2af09"  />
 
 ###
 
