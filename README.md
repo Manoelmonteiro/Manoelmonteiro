@@ -9,7 +9,7 @@ I'm passionate about technology and pop culture.
 
 
 ###
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelmonteiro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
