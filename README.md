@@ -11,7 +11,9 @@ I'm passionate about technology and pop culture.
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelmonteiro&layout=donut&size_weight=0.5&count_weight=0.5&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+
+
+
 
 ## I code with
 
@@ -44,6 +46,7 @@ I'm passionate about technology and pop culture.
 ## Tools
 
 <div> 
+  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -65,7 +68,12 @@ I'm passionate about technology and pop culture.
 ###
 
 <div align="left">
-  
+
+  <a href="https://manoelmonteiro.github.io/portfolio" target="_blank">
+  <img alt="Portfolio"
+       src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white"
+       height="30">
+</a>
   <a href="https://www.instagram.com/manoel.io/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
